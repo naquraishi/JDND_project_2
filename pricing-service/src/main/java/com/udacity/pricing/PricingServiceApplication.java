@@ -12,7 +12,7 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 @EnableEurekaClient
 public class PricingServiceApplication {
 
-    public static void main(String[] args) {
+       public static void main(String[] args) {
         SpringApplication.run(PricingServiceApplication.class, args);
     }
 
