@@ -1,6 +1,5 @@
 package com.udacity.pricing;
 
-import com.udacity.pricing.api.PricingController;
 import com.udacity.pricing.domain.price.PriceRepository;
 import org.junit.Test;
 import org.junit.runner.RunWith;
